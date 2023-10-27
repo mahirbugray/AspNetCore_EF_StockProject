@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\AspNetCoreMvc_EF_Stock.props" />
+</Project>

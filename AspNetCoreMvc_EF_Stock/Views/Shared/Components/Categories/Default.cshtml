@@ -1,0 +1,11 @@
+﻿@model List<Category>
+
+    <div class="list-group">
+        <h2>Kategoriler</h2>
+    <a class="list-group-item @(ViewBag.SelectedCategoryId==null?"active":"")" href="/Product/List/">Tüm Ürünler</a>
+        @foreach (var item in Model)
+    {
+        <a class="list-group-item @(ViewBag.SelectedCategoryId==item.Id.ToString()?"active":"") " href="/Product/List/@item.Id">@item.Name</a>
+    }
+     @*var sonuc = şart ? doğruysa burası : yanlışsa burası*@  
+    </div>

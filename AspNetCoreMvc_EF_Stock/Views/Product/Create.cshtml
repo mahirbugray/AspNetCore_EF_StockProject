@@ -1,0 +1,52 @@
+﻿@model Product
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h4>New Product</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create" enctype="multipart/form-data">
+            <div class="form-group">
+                <label asp-for="Name" class="control-label"></label>
+                <input asp-for="Name" class="form-control" />
+            </div>
+            <div class="form-group">
+                <label asp-for="Stock" class="control-label"></label>
+                <input asp-for="Stock" class="form-control" />
+            </div>
+            <div class="form-group">
+                <label asp-for="Price" class="control-label"></label>
+                <input asp-for="Price" class="form-control" />
+            </div>
+            <div class="form-group">
+                <label asp-for="Details" class="control-label"></label>
+                <input asp-for="Details" class="form-control" />
+            </div>
+            <div class="form-group">
+                <label asp-for="CategoryId" class="control-label">Kategori</label>
+                <select class="form-control" asp-items="@ViewBag.Categories" asp-for="CategoryId">
+                    <option selected>Kategori Seçiniz</option>
+                </select>
+@*                <input asp-for="CategoryId" class="form-control" />*@
+            </div>
+            <div class="form-group mb-3">
+                <label for="formFile" class="control-label">Image</label>
+                <input class="form-control" type="file" name="formFile">
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

@@ -1,0 +1,747 @@
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\appsettings.Development.json
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\appsettings.json
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\AspNetCoreMvc_EF_Stock.staticwebassets.runtime.json
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\AspNetCoreMvc_EF_Stock.exe
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\AspNetCoreMvc_EF_Stock.deps.json
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\AspNetCoreMvc_EF_Stock.runtimeconfig.json
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\AspNetCoreMvc_EF_Stock.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\AspNetCoreMvc_EF_Stock.pdb
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\obj\Debug\net7.0\AspNetCoreMvc_EF_Stock.csproj.AssemblyReference.cache
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\obj\Debug\net7.0\AspNetCoreMvc_EF_Stock.GeneratedMSBuildEditorConfig.editorconfig
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\obj\Debug\net7.0\AspNetCoreMvc_EF_Stock.AssemblyInfoInputs.cache
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\obj\Debug\net7.0\AspNetCoreMvc_EF_Stock.AssemblyInfo.cs
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\obj\Debug\net7.0\AspNetCoreMvc_EF_Stock.csproj.CoreCompileInputs.cache
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\obj\Debug\net7.0\AspNetCoreMvc_EF_Stock.MvcApplicationPartsAssemblyInfo.cache
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\obj\Debug\net7.0\AspNetCoreMvc_EF_Stock.RazorAssemblyInfo.cache
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\obj\Debug\net7.0\AspNetCoreMvc_EF_Stock.RazorAssemblyInfo.cs
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\obj\Debug\net7.0\staticwebassets\msbuild.AspNetCoreMvc_EF_Stock.Microsoft.AspNetCore.StaticWebAssets.props
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\obj\Debug\net7.0\staticwebassets\msbuild.build.AspNetCoreMvc_EF_Stock.props
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.AspNetCoreMvc_EF_Stock.props
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.AspNetCoreMvc_EF_Stock.props
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\obj\Debug\net7.0\staticwebassets.pack.json
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\obj\Debug\net7.0\staticwebassets.build.json
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\obj\Debug\net7.0\staticwebassets.development.json
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\obj\Debug\net7.0\scopedcss\bundle\AspNetCoreMvc_EF_Stock.styles.css
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\obj\Debug\net7.0\scopedcss\projectbundle\AspNetCoreMvc_EF_Stock.bundle.scp.css
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\obj\Debug\net7.0\AspNetCoreMvc_EF_Stock.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\obj\Debug\net7.0\refint\AspNetCoreMvc_EF_Stock.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\obj\Debug\net7.0\AspNetCoreMvc_EF_Stock.pdb
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\obj\Debug\net7.0\AspNetCoreMvc_EF_Stock.genruntimeconfig.cache
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\obj\Debug\net7.0\ref\AspNetCoreMvc_EF_Stock.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\Azure.Core.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\Azure.Identity.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\Humanizer.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\Microsoft.Build.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\NuGet.Common.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\NuGet.Configuration.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\NuGet.Frameworks.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\NuGet.LibraryModel.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\NuGet.Packaging.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\NuGet.ProjectModel.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\NuGet.Protocol.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\NuGet.Versioning.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\System.Composition.Convention.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\System.Composition.Hosting.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\System.Composition.Runtime.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\System.Composition.TypedParts.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\System.Memory.Data.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\af\Humanizer.resources.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\ar\Humanizer.resources.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\az\Humanizer.resources.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\bg\Humanizer.resources.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\bn-BD\Humanizer.resources.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\cs\Humanizer.resources.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\da\Humanizer.resources.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\de\Humanizer.resources.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\el\Humanizer.resources.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\es\Humanizer.resources.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\fa\Humanizer.resources.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\fi-FI\Humanizer.resources.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\fr\Humanizer.resources.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\fr-BE\Humanizer.resources.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\he\Humanizer.resources.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\hr\Humanizer.resources.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\hu\Humanizer.resources.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\hy\Humanizer.resources.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\id\Humanizer.resources.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\is\Humanizer.resources.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\it\Humanizer.resources.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\ja\Humanizer.resources.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\ko-KR\Humanizer.resources.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\ku\Humanizer.resources.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\lv\Humanizer.resources.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\ms-MY\Humanizer.resources.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\mt\Humanizer.resources.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\nb\Humanizer.resources.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\nb-NO\Humanizer.resources.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\nl\Humanizer.resources.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\pl\Humanizer.resources.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\pt\Humanizer.resources.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\ro\Humanizer.resources.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\ru\Humanizer.resources.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\sk\Humanizer.resources.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\sl\Humanizer.resources.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\sr\Humanizer.resources.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\sr-Latn\Humanizer.resources.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\sv\Humanizer.resources.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\th-TH\Humanizer.resources.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\tr\Humanizer.resources.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\uk\Humanizer.resources.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\vi\Humanizer.resources.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\zh-CN\Humanizer.resources.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\zh-Hans\Humanizer.resources.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\zh-Hant\Humanizer.resources.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\VS-Net-2022\AspNetCoreMVC\AspNetCoreMvc_EF_Stock\obj\Debug\net7.0\AspNetCoreMvc_EF_Stock.csproj.CopyComplete
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\appsettings.json
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\AspNetCoreMvc_EF_Stock.staticwebassets.runtime.json
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\AspNetCoreMvc_EF_Stock.exe
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\AspNetCoreMvc_EF_Stock.deps.json
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\AspNetCoreMvc_EF_Stock.runtimeconfig.json
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\AspNetCoreMvc_EF_Stock.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\AspNetCoreMvc_EF_Stock.pdb
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\Humanizer.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\Microsoft.Build.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\NuGet.Common.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\NuGet.Configuration.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\NuGet.Frameworks.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\NuGet.LibraryModel.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\NuGet.Packaging.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\NuGet.ProjectModel.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\NuGet.Protocol.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\NuGet.Versioning.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\System.Composition.Convention.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\System.Composition.Hosting.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\System.Composition.Runtime.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\System.Composition.TypedParts.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\af\Humanizer.resources.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\ar\Humanizer.resources.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\az\Humanizer.resources.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\bg\Humanizer.resources.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\bn-BD\Humanizer.resources.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\cs\Humanizer.resources.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\da\Humanizer.resources.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\de\Humanizer.resources.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\el\Humanizer.resources.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\es\Humanizer.resources.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\fa\Humanizer.resources.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\fi-FI\Humanizer.resources.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\fr\Humanizer.resources.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\fr-BE\Humanizer.resources.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\he\Humanizer.resources.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\hr\Humanizer.resources.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\hu\Humanizer.resources.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\hy\Humanizer.resources.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\id\Humanizer.resources.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\is\Humanizer.resources.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\it\Humanizer.resources.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\ja\Humanizer.resources.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\ko-KR\Humanizer.resources.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\ku\Humanizer.resources.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\lv\Humanizer.resources.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\ms-MY\Humanizer.resources.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\mt\Humanizer.resources.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\nb\Humanizer.resources.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\nb-NO\Humanizer.resources.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\nl\Humanizer.resources.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\pl\Humanizer.resources.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\pt\Humanizer.resources.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\ro\Humanizer.resources.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\ru\Humanizer.resources.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\sk\Humanizer.resources.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\sl\Humanizer.resources.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\sr\Humanizer.resources.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\sr-Latn\Humanizer.resources.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\sv\Humanizer.resources.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\th-TH\Humanizer.resources.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\tr\Humanizer.resources.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\uk\Humanizer.resources.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\vi\Humanizer.resources.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\zh-CN\Humanizer.resources.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\zh-Hans\Humanizer.resources.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\zh-Hant\Humanizer.resources.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\obj\Debug\net7.0\AspNetCoreMvc_EF_Stock.csproj.AssemblyReference.cache
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\obj\Debug\net7.0\AspNetCoreMvc_EF_Stock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\obj\Debug\net7.0\AspNetCoreMvc_EF_Stock.AssemblyInfoInputs.cache
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\obj\Debug\net7.0\AspNetCoreMvc_EF_Stock.AssemblyInfo.cs
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\obj\Debug\net7.0\AspNetCoreMvc_EF_Stock.csproj.CoreCompileInputs.cache
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\obj\Debug\net7.0\AspNetCoreMvc_EF_Stock.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\obj\Debug\net7.0\AspNetCoreMvc_EF_Stock.RazorAssemblyInfo.cache
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\obj\Debug\net7.0\AspNetCoreMvc_EF_Stock.RazorAssemblyInfo.cs
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\obj\Debug\net7.0\staticwebassets\msbuild.AspNetCoreMvc_EF_Stock.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\obj\Debug\net7.0\staticwebassets\msbuild.build.AspNetCoreMvc_EF_Stock.props
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.AspNetCoreMvc_EF_Stock.props
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.AspNetCoreMvc_EF_Stock.props
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\obj\Debug\net7.0\scopedcss\bundle\AspNetCoreMvc_EF_Stock.styles.css
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\obj\Debug\net7.0\scopedcss\projectbundle\AspNetCoreMvc_EF_Stock.bundle.scp.css
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\obj\Debug\net7.0\AspNetCoreMvc_EF_Stock.csproj.CopyComplete
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\obj\Debug\net7.0\AspNetCoreMvc_EF_Stock.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\obj\Debug\net7.0\refint\AspNetCoreMvc_EF_Stock.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\obj\Debug\net7.0\AspNetCoreMvc_EF_Stock.pdb
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\obj\Debug\net7.0\AspNetCoreMvc_EF_Stock.genruntimeconfig.cache
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\obj\Debug\net7.0\ref\AspNetCoreMvc_EF_Stock.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\appsettings.json
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\AspNetCoreMvc_EF_Stock.staticwebassets.runtime.json
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\AspNetCoreMvc_EF_Stock.exe
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\AspNetCoreMvc_EF_Stock.deps.json
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\AspNetCoreMvc_EF_Stock.runtimeconfig.json
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\AspNetCoreMvc_EF_Stock.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\AspNetCoreMvc_EF_Stock.pdb
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\Humanizer.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\Microsoft.Build.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\NuGet.Common.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\NuGet.Configuration.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\NuGet.Frameworks.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\NuGet.LibraryModel.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\NuGet.Packaging.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\NuGet.ProjectModel.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\NuGet.Protocol.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\NuGet.Versioning.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\System.Composition.Convention.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\System.Composition.Hosting.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\System.Composition.Runtime.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\System.Composition.TypedParts.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\af\Humanizer.resources.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\ar\Humanizer.resources.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\az\Humanizer.resources.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\bg\Humanizer.resources.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\bn-BD\Humanizer.resources.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\cs\Humanizer.resources.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\da\Humanizer.resources.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\de\Humanizer.resources.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\el\Humanizer.resources.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\es\Humanizer.resources.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\fa\Humanizer.resources.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\fi-FI\Humanizer.resources.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\fr\Humanizer.resources.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\fr-BE\Humanizer.resources.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\he\Humanizer.resources.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\hr\Humanizer.resources.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\hu\Humanizer.resources.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\hy\Humanizer.resources.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\id\Humanizer.resources.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\is\Humanizer.resources.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\it\Humanizer.resources.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\ja\Humanizer.resources.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\ko-KR\Humanizer.resources.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\ku\Humanizer.resources.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\lv\Humanizer.resources.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\ms-MY\Humanizer.resources.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\mt\Humanizer.resources.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\nb\Humanizer.resources.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\nb-NO\Humanizer.resources.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\nl\Humanizer.resources.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\pl\Humanizer.resources.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\pt\Humanizer.resources.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\ro\Humanizer.resources.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\ru\Humanizer.resources.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\sk\Humanizer.resources.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\sl\Humanizer.resources.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\sr\Humanizer.resources.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\sr-Latn\Humanizer.resources.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\sv\Humanizer.resources.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\th-TH\Humanizer.resources.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\tr\Humanizer.resources.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\uk\Humanizer.resources.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\vi\Humanizer.resources.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\zh-CN\Humanizer.resources.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\zh-Hans\Humanizer.resources.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\zh-Hant\Humanizer.resources.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\obj\Debug\net7.0\AspNetCoreMvc_EF_Stock.csproj.AssemblyReference.cache
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\obj\Debug\net7.0\AspNetCoreMvc_EF_Stock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\obj\Debug\net7.0\AspNetCoreMvc_EF_Stock.AssemblyInfoInputs.cache
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\obj\Debug\net7.0\AspNetCoreMvc_EF_Stock.AssemblyInfo.cs
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\obj\Debug\net7.0\AspNetCoreMvc_EF_Stock.csproj.CoreCompileInputs.cache
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\obj\Debug\net7.0\AspNetCoreMvc_EF_Stock.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\obj\Debug\net7.0\AspNetCoreMvc_EF_Stock.RazorAssemblyInfo.cache
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\obj\Debug\net7.0\AspNetCoreMvc_EF_Stock.RazorAssemblyInfo.cs
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\obj\Debug\net7.0\staticwebassets\msbuild.AspNetCoreMvc_EF_Stock.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\obj\Debug\net7.0\staticwebassets\msbuild.build.AspNetCoreMvc_EF_Stock.props
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.AspNetCoreMvc_EF_Stock.props
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.AspNetCoreMvc_EF_Stock.props
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\obj\Debug\net7.0\scopedcss\bundle\AspNetCoreMvc_EF_Stock.styles.css
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\obj\Debug\net7.0\scopedcss\projectbundle\AspNetCoreMvc_EF_Stock.bundle.scp.css
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\obj\Debug\net7.0\AspNetCoreMvc_EF_Stock.csproj.CopyComplete
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\obj\Debug\net7.0\AspNetCoreMvc_EF_Stock.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\obj\Debug\net7.0\refint\AspNetCoreMvc_EF_Stock.dll
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\obj\Debug\net7.0\AspNetCoreMvc_EF_Stock.pdb
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\obj\Debug\net7.0\AspNetCoreMvc_EF_Stock.genruntimeconfig.cache
+C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_EF_Stock\obj\Debug\net7.0\ref\AspNetCoreMvc_EF_Stock.dll
